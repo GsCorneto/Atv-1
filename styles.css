@@ -33,3 +33,20 @@ li {
     border-radius: 5px;
     transition: background-color 0.3s;
 }
+
+.vermelho{
+    background: #ffdada;
+    border-left: 15px solid #912828;
+}
+.vermelho:hover {
+    background-color: #c0392b;
+}
+
+.azul{
+    border-left: 15px solid #28917a;
+}
+
+.azul:hover{
+    background-color: #1abc9c
+}
+
