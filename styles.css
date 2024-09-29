@@ -50,3 +50,16 @@ li {
     background-color: #1abc9c
 }
 
+
+.jogos{
+ display: flex;
+ justify-content: center;
+ margin-top: 20px;
+}
+
+.jogos img{
+    margin: 0 10px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
